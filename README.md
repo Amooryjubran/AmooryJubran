@@ -1,4 +1,4 @@
-### Hi there, I'm Omar - [website] 👋
+### Hi there, I'm Omar 👋
 
 [![Website](https://img.shields.io/website?label=omargubran.netlify.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://omargubran.netlify.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmooryJu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amooryju)
