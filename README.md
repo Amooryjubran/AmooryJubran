@@ -1,6 +1,5 @@
 ### Hi there, I'm Omar 👋
 
-[![Website](https://img.shields.io/website?label=omargubran.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://omargubran.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmooryJu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amooryju)
 
 ## I'm a Developer, Video Gamer, and a Soccer Player!!
