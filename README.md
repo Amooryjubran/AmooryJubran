@@ -2,7 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmooryJu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amooryju)
 
-## I'm a Developer, Video Gamer, and a Soccer Player!!
 
 - 🌱 I’m currently working as a Front End Developer at Blue Bager
 - 👯 I’m looking to collaborate with other developers
