@@ -5,9 +5,8 @@
 
 
 
-- 🌱 I’m currently working as a Front End Developer at Blue Bager
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to kayak and cook
 
 ### Spotify Playing 🎧
@@ -42,7 +41,5 @@
 
 ---
 
-[website]: http://omargubran.com/
 [twitter]: https://twitter.com/amooryju
-[instagram]: https://instagram.com/amooryjubran
 [linkedin]: https://linkedin.com/in/omar-gubran-2b569619a/
