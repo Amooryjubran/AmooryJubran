@@ -5,9 +5,7 @@
 
 
 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to kayak and cook
+- ⚡ Probably sleeping, or eating !
 
 
 ### Connect with me:
